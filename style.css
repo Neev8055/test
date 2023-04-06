@@ -1,0 +1,18 @@
+body
+{
+	text-align: center;
+	background-color: black;
+}
+span
+{
+	font-size: 18px;
+	color: red;
+}
+canvas
+{
+	background: pink;
+	border-radius: 20px;
+}
+h3{
+	color: white;
+}
